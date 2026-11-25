@@ -4,7 +4,7 @@ A 20-second cinematic spec commercial for a fictional electric sedan brand, shot
 dawn-to-golden-hour journey through Cairo. Built to study continuity techniques in
 generative video: one hero car held consistent across four distinct scenes.
 
-**Watch:** `film1_aurion_20s.mp4` - 1920x1080, 24 fps, exactly 20.0s, silent.
+**Watch:** `film1_aurion_20s.mp4` - 1920x1080, 24 fps, exactly 20.0s, with sound.
 
 ## Structure
 
@@ -30,6 +30,10 @@ were inspected for real badges - none present.
   (contrast/saturation/vignette), hard cuts, fade to end card.
 - No frame interpolation or looping; the trimmed head was absorbed by the end-card
   length so the final runtime stays exactly 20s.
+
+## Sound
+
+Original synthesized ambient score (numpy) mixed with the clips' own AI-generated ambience; no licensed music. The picture is unchanged from the first upload.
 
 ## Rights and disclosure
 
